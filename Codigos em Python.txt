@@ -1,0 +1,5 @@
+\n - para quebrar a linha 
+end=' ' - para dar continuidade na linha
+print= ('ex') - para mostrar um codigo resultado ou o objeto 
+input('ex') - para a pessoa escrever o resultad0 
+= - sempre como recebe 

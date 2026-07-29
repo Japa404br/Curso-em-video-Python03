@@ -1,0 +1,31 @@
+PYTHON
+
+Criada em 1982 (1989) pelo programador ''GUIDO VAN HOSSUM'' em Amsterdam Holanda, para facilitar a linguagem C, que fosse uma linguagem que desse interpretar de uma maneira simples, com ferramentas simples
+
+nome ''python'' venho de um programa de tv chamado: MONTY PYTHON`S FLYING CIRCUS, também com piton
+
+O QUE É PYTHON
+-Linguagem de propósito geral
+-Fácil e intuitiva
+-Multiplataforma
+-Batteries included (vários programas inclusos no sistema, tem mais)
+-Livre (Código aberto, Livre)
+-Organizada
+-Orientada a objetos (trata tudo como objeto)
+-Muitas bibliotecas (sites, jogos, telas)
+
+Principais áreas
+-Inteligência Artificial
+-Biotecnologia
+-Computação 3D
+
+Quem usa Python
+
+-Zope
+-Air Canada
+-BitTorrent
+-Globo
+-Google
+-Youtube
+-Nasa
+-Industrial Light&Magic

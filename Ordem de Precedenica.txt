@@ -1,0 +1,6 @@
+Ordem de Precedência
+
+1' ( ) primeiro entre parentece 
+2' ** segundo potencia (POW)
+3' * _ / _ // _ %  terceiro oq vir primeiro desses
+4' + _ - e por ultimo o mais e menos
